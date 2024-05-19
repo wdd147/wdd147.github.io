@@ -21,7 +21,6 @@ CCTV-8电视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/888
 CCTV-9记录,http://121.25.140.33:8888/rtp/239.253.92.107:6020
 CCTV-9记录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV-9记录,http://211.143.142.2:4000/udp/239.255.2.10:8048
-CCTV-9记录,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel9/index.m3u8
 CCTV-10科教,http://121.25.140.33:8888/udp/239.253.92.196:6061
 CCTV-10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV-10科教,http://211.143.142.2:4000/udp/239.255.2.11:8054
