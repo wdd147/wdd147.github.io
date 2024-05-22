@@ -39,7 +39,7 @@ CCTV-13新闻,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88
 青县电视,http://211.143.142.2:4000/udp/239.255.2.152:8900
 河北农民,http://121.25.140.33:8888/udp/239.253.92.176:6006
 河北农民,http://211.143.142.2:4000/udp/239.255.2.25:8138
-河北农民,http://101.16.199.29:8888/udp/239.253.92.176:6006
+河北农民,http://110.240.178.197:8565/udp/239.253.92.176:6006
 河北农民,http://itms.xznet.org:41097/rtp/239.254.200.23:6000
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv 
 重温经典,http://223.109.210.49/mmst.v.smtcdns.net/1301-txt.yiyang.otvcloud.com/otv/skcc/live/channel43067/index.m3u8
