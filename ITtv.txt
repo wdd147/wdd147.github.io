@@ -52,7 +52,10 @@ CCTV-13新闻,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88
 凤凰资讯,http://171.217.145.140:55555/udp/239.93.1.4:2191
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv 
 重温经典,http://223.109.210.49/mmst.v.smtcdns.net/1301-txt.yiyang.otvcloud.com/otv/skcc/live/channel43067/index.m3u8
-黑莓电影,http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8
+NewTV求索动物,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
+NewTV求索动物,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
+NewTV梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
+NewTV梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?m3u8_level=2
 NewTV欢乐剧场,http://39.134.136.205:6610/200000001898/460000089800010025/1.m3u8?IAS=
 NewTV欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 NewTV军事评论,http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
