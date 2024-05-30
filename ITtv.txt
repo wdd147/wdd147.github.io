@@ -49,6 +49,9 @@ CCTV-13新闻,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88
 凤凰资讯,http://171.217.145.140:55555/udp/239.93.0.118:2191
 凤凰资讯,http://171.217.145.140:55555/udp/239.93.1.4:2191
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv 
+重温经典,http://171.208.19.192:9090/live/cwjd/hls.m3u8
+重温经典,http://117.141.194.182:39581/stream/channelid/216409813
+重温经典,http://117.141.194.182:39581/stream/channelid/1356879616
 NewTV求索动物,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
 NewTV求索动物,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 NewTV梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
