@@ -26,9 +26,13 @@ CCTV-13新闻,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88
 青县电视,https://jwliveqxzb.hebyun.com.cn/qxtvlive1/qxtvlive1.m3u8
 青县电视,http://jwliveqxzb.hebyun.com.cn/qxtvlive1/qxtvlive1.flv
 青县电视,rtmp://jwliveqxzb.hebyun.com.cn/qxtvlive1/qxtvlive1
+青县电视,http://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
+河北农民,http://111.225.93.167:33333/hls/25/index.m3u8
 河北农民,http://111.225.93.63:33333/hls/25/index.m3u8
-河北农民,http://111.225.93.185:33333/hls/25/index.m3u8
-河北农民,http://121.29.133.232:8888/udp/239.253.92.176:6006
+河北农民,http://111.225.93.169:33333/hls/25/index.m3u8
+河北农民,http://106.115.24.45:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.24.155:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://mail.petzhu.top:7000/rtp/239.254.200.23:6000
 河北农民,http://202.99.155.67:8888/rtp/239.253.92.176:6006
 河北农民,http://itms.xznet.org:41097/rtp/239.254.200.23:6000
 凤凰中文,http://183.222.206.14:8096/udp/239.93.0.162:2192
@@ -37,6 +41,7 @@ CCTV-13新闻,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88
 凤凰资讯,http://183.222.206.14:8096/udp/239.93.1.4:2191
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv 
 重温经典,http://171.208.22.248:9090/live/cwjd/hls.m3u8
+重温经典,http://124.231.212.92:9999/tsfile/live/1111_1.m3u8
 NewTV求索动物,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
 NewTV求索动物,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 NewTV梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
@@ -44,8 +49,8 @@ NewTV梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638
 NewTV欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 NewTV军事评论,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 NewTV军旅剧场,http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-NewTV农业致富,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225552/index.m3u8
-NewTV古装剧场,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225524/index.m3u8
+NewTV农业致富,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+NewTV古装剧场,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 NewTV家庭剧场,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 NewTV明星大片,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 NewTV潮妈辣婆,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
@@ -53,10 +58,7 @@ NewTV精品纪录,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/
 NewTV金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 NewTV东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 NewTV金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-yy爆笑小品,https://lunbo.freetv.top/yy/1354931503
-yy蔡明春晚小品,https://lunbo.freetv.top/yy/1354936177
 虎牙重温春晚爆笑经典小品,https://live.metshop.top/huya/11602068
-斗鱼赵本山经小品,http://allinone.netsite.cc/douyu/9817716
 斗鱼赵本山经小品,https://www.goodiptv.club/douyu/9817716
 斗鱼宋小宝小品台,https://allinone.netsite.cc/douyu/9817729
 斗鱼宋小宝小品台,https://www.goodiptv.club/douyu/9817729
