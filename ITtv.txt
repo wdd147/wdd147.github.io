@@ -45,6 +45,9 @@ CCTV14,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 
 
+辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+辽宁卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+辽宁卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 
 
 
@@ -177,6 +180,14 @@ NewTV农业致富,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 斗鱼赵本山经小品,http://www.52sw.top:678/play/douyu.php?id=9817716
 斗鱼赵本山经小品,http://live.iill.top/douyu.php?id=9817716
 斗鱼赵本山经小品,http://maomao.kandiantv.cn/douyu1.php?id=9817716
+
+陈佩斯喜剧,http://www.52sw.top:678/play/douyu.php?id=9286868
+陈佩斯喜剧,http://live.iill.top/douyu.php?id=9286868
+陈佩斯喜剧,http://maomao.kandiantv.cn/douyu1.php?id=9286868
+
+蔡明春晚小品,http://live.iill.top/yy.php?id=1354936177
+蔡明春晚小品,http://maomao.kandiantv.cn/yy.php?id=1354936177
+
 
 
 斗鱼宋小宝小品,http://www.52sw.top:678/play/douyu.php?id=9817729
