@@ -127,6 +127,31 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 
+NewTV东北热剧 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+NewTV军事评论 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+NewTV军旅剧场 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+NewTV农业致富 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+NewTV动作电影 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+NewTV家庭剧场 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+NewTV惊悚悬疑 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+NewTV明星大片 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+NewTV欢乐剧场 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+NewTV海外剧场 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+NewTV潮妈辣婆 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+NewTV爱情喜剧 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+NewTV精品大剧 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+NewTV精品纪录 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+NewTV超级电影 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+NewTV超级电视剧 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+NewTV超级综艺 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+NewTV金牌综艺 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+NewTV精品萌宠 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+
+
+
+
+
+
 NewTV欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 NewTV军事评论,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 NewTV军旅剧场,http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
@@ -180,26 +205,39 @@ NewTV农业致富,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 斗鱼赵本山经小品,http://www.52sw.top:678/play/douyu.php?id=9817716
 斗鱼赵本山经小品,http://live.iill.top/douyu.php?id=9817716
 斗鱼赵本山经小品,http://maomao.kandiantv.cn/douyu1.php?id=9817716
+斗鱼赵本山经小品,http://159.75.85.63:35455/douyu/9817716
 
 陈佩斯喜剧,http://www.52sw.top:678/play/douyu.php?id=9286868
 陈佩斯喜剧,http://live.iill.top/douyu.php?id=9286868
 陈佩斯喜剧,http://maomao.kandiantv.cn/douyu1.php?id=9286868
+陈佩斯喜剧,http://124.248.69.76:35455/douyu/9286868
+陈佩斯喜剧,http://159.75.85.63:35455/douyu/9286868
 
+
+蔡明春晚小品,http://159.75.85.63:35455/yy/1354936177
+蔡明春晚小品,http://124.248.69.76:35455/yy/1354936177
 蔡明春晚小品,http://live.iill.top/yy.php?id=1354936177
 蔡明春晚小品,http://maomao.kandiantv.cn/yy.php?id=1354936177
-
 
 
 斗鱼宋小宝小品,http://www.52sw.top:678/play/douyu.php?id=9817729
 斗鱼宋小宝小品,http://live.iill.top/douyu.php?id=9817729
 斗鱼宋小宝小品,http://maomao.kandiantv.cn/douyu1.php?id=9817729
+斗鱼宋小宝小品,http://124.248.69.76:35455/douyu/9817729
+斗鱼宋小宝小品,http://159.75.85.63:35455/douyu/9817729
 
 贾玲经典小品,http://www.52sw.top:678/play/douyu.php?id=10419541
 贾玲经典小品,http://live.iill.top/douyu.php?id=10419541
 贾玲经典小品,http://maomao.kandiantv.cn/douyu1.php?id=10419541
+贾玲经典小品,http://124.248.69.76:35455/douyu/10419541
+贾玲经典小品,http://159.75.85.63:35455/douyu/10419541
 
+
+巩汉林,http://159.75.85.63:35455/yy/1354889035
 巩汉林,http://live.iill.top/yy.php?id=1354889035
 巩汉林,http://maomao.kandiantv.cn/yy.php?id=1354889035
+巩汉林,http://124.248.69.76:35455/yy/1354889035
+
 
 
 相声小品轮播,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
