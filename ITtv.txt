@@ -208,8 +208,8 @@ TVB新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 
 重温经典台,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv 
 重温经典台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls
-重温经典,http://124.231.213.212:9999/tsfile/live/1111_1.m3u8
-重温经典,http://124.231.215.237:9999/tsfile/live/1111_1.m3u8
+重温经典台,http://124.231.213.212:9999/tsfile/live/1111_1.m3u8
+重温经典台,http://124.231.215.237:9999/tsfile/live/1111_1.m3u8
 
 重温经典台,http://117.114.153.18:8180/TV00000000000000000007@HHZT?$京移5M576
 重温经典台,http://117.114.153.26:8180/TV00000000000000000007@HHZT?$京移5M576
