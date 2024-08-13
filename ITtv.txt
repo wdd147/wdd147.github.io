@@ -72,30 +72,70 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 
-河北农民,http://144.7.38.56:808/hls/22/index.m3u8
-河北农民,http://144.7.38.193:808/hls/22/index.m3u8
+河北农民,http://144.7.38.30:808/hls/22/index.m3u8
+河北农民,http://144.7.38.157:808/hls/22/index.m3u8
 
 
-河北农民,http://111.225.93.164:33333/hls/25/index.m3u8
-河北农民,http://111.225.93.179:33333/hls/25/index.m3u8
-河北农民,http://111.225.93.222:33333/hls/25/index.m3u8
+河北农民,http://111.225.92.136:33333/hls/25/index.m3u8
+河北农民,http://111.225.92.247:33333/hls/25/index.m3u8
 
-河北农民,http://123.183.79.18:808/hls/22/index.m3u8
-河北农民,http://123.183.79.19:808/hls/22/index.m3u8
-河北农民,http://123.183.79.86:808/hls/22/index.m3u8
-河北农民,http://123.183.79.55:808/hls/22/index.m3u8
-河北农民,http://123.183.79.71:808/hls/22/index.m3u8
-河北农民,http://123.183.79.143:808/hls/22/index.m3u8
-河北农民,http://123.183.79.149:808/hls/22/index.m3u8
-河北农民,http://123.183.79.254:808/hls/22/index.m3u8
 
-河北农民,http://123.183.78.24:808/hls/22/index.m3u8
-河北农民,http://123.183.78.22:808/hls/22/index.m3u8
-河北农民,http://123.183.78.56:808/hls/22/index.m3u8
-河北农民,http://123.183.78.68:808/hls/22/index.m3u8
+
+河北农民,http://111.225.93.5:33333/hls/25/index.m3u8
+河北农民,http://111.225.93.62:33333/hls/25/index.m3u8
+河北农民,http://111.225.93.253:33333/hls/25/index.m3u8
+河北农民,http://111.225.93.252:33333/hls/25/index.m3u8
+
+河北农民,http://111.225.94.59:33333/hls/25/index.m3u8
+河北农民,http://111.225.94.88:33333/hls/25/index.m3u8
+
+
+河北农民,http://111.225.95.76:33333/hls/25/index.m3u8
+河北农民,http://111.225.95.136:33333/hls/25/index.m3u8
+
+
+
+
+
+
+河北农民,http://123.183.79.70:808/hls/22/index.m3u8
+河北农民,http://123.183.79.77:808/hls/22/index.m3u8
+河北农民,http://123.183.79.110:808/hls/22/index.m3u8
+河北农民,http://123.183.79.134:808/hls/22/index.m3u8
+河北农民,http://123.183.79.191:808/hls/22/index.m3u8
+河北农民,http://123.183.79.179:808/hls/22/index.m3u8
+河北农民,http://123.183.79.170:808/hls/22/index.m3u8
+
+河北农民,http://123.183.78.33:808/hls/22/index.m3u8
+河北农民,http://123.183.78.82:808/hls/22/index.m3u8
+河北农民,http://123.183.78.72:808/hls/22/index.m3u8
+河北农民,http://123.183.78.105:808/hls/22/index.m3u8
 河北农民,http://123.183.78.120:808/hls/22/index.m3u8
-河北农民,http://123.183.78.199:808/hls/22/index.m3u8
-河北农民,http://123.183.78.223:808/hls/22/index.m3u8
+河北农民,http://123.183.78.107:808/hls/22/index.m3u8
+河北农民,http://123.183.78.215:808/hls/22/index.m3u8
+
+
+河北农民,http://123.183.77.23:808/hls/22/index.m3u8
+河北农民,http://123.183.77.47:808/hls/22/index.m3u8
+河北农民,http://123.183.77.55:808/hls/22/index.m3u8
+河北农民,http://123.183.77.108:808/hls/22/index.m3u8
+河北农民,http://123.183.77.137:808/hls/22/index.m3u8
+河北农民,http://123.183.77.199:808/hls/22/index.m3u8
+
+
+河北农民,http://123.183.76.11:808/hls/22/index.m3u8
+河北农民,http://123.183.76.36:808/hls/22/index.m3u8
+河北农民,http://123.183.76.107:808/hls/22/index.m3u8
+河北农民,http://123.183.76.65:808/hls/22/index.m3u8
+河北农民,http://123.183.76.83:808/hls/22/index.m3u8
+河北农民,http://123.183.76.96:808/hls/22/index.m3u8
+河北农民,http://123.183.76.120:808/hls/22/index.m3u8
+河北农民,http://123.183.76.144:808/hls/22/index.m3u8
+河北农民,http://123.183.76.162:808/hls/22/index.m3u8
+河北农民,http://123.183.76.202:808/hls/22/index.m3u8
+河北农民,http://123.183.76.219:808/hls/22/index.m3u8
+河北农民,http://123.183.76.227:808/hls/22/index.m3u8
+河北农民,http://123.183.76.253:808/hls/22/index.m3u8
 
 
 
@@ -104,15 +144,54 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 
+河北农民,http://106.115.24.28:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.24.120:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.24.195:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.24.232:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
 
 
 
-河北农民,http://106.115.24.94:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.24.186:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.24.178:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.25.94:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.25.114:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+
+河北农民,http://106.115.26.23:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.26.137:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http:/106.115.26.162:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.26.166:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.26.187:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.26.246:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.26.249:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+
+
+河北农民,http://106.115.27.21:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.27.35:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.27.31:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.27.87:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+
+
+
+
+河北农民,http://111.225.112.49:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.112.140:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 
 
 河北农民,http://111.225.113.100:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.113.200:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+
+河北农民,http://111.225.114.68:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.114.48:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.114.82:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+河北农民,http://111.225.115.7:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.115.18:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.115.55:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.115.136:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
 
 
 
