@@ -100,36 +100,31 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 
-河北农民,http://123.183.79.70:808/hls/22/index.m3u8
-河北农民,http://123.183.79.77:808/hls/22/index.m3u8
-河北农民,http://123.183.79.110:808/hls/22/index.m3u8
-河北农民,http://123.183.79.134:808/hls/22/index.m3u8
-河北农民,http://123.183.79.191:808/hls/22/index.m3u8
-河北农民,http://123.183.79.179:808/hls/22/index.m3u8
-河北农民,http://123.183.79.170:808/hls/22/index.m3u8
-
-河北农民,http://123.183.78.33:808/hls/22/index.m3u8
-河北农民,http://123.183.78.82:808/hls/22/index.m3u8
-河北农民,http://123.183.78.72:808/hls/22/index.m3u8
-河北农民,http://123.183.78.105:808/hls/22/index.m3u8
-河北农民,http://123.183.78.120:808/hls/22/index.m3u8
-河北农民,http://123.183.78.107:808/hls/22/index.m3u8
-河北农民,http://123.183.78.215:808/hls/22/index.m3u8
+河北农民,http://123.183.79.15:808/hls/22/index.m3u8
+河北农民,http:/123.183.79.32:808/hls/22/index.m3u8
+河北农民,http://123.183.79.87:808/hls/22/index.m3u8
+河北农民,http://123.183.79.153:808/hls/22/index.m3u8
+河北农民,http://123.183.79.121:808/hls/22/index.m3u8
+河北农民,http://123.183.79.165:808/hls/22/index.m3u8
+河北农民,http:/123.183.79.198:808/hls/22/index.m3u8
+河北农民,http://123.183.79.253:808/hls/22/index.m3u8
+河北农民,http:/123.183.79.242:808/hls/22/index.m3u8
 
 
-河北农民,http://123.183.77.23:808/hls/22/index.m3u8
-河北农民,http://123.183.77.47:808/hls/22/index.m3u8
-河北农民,http://123.183.77.55:808/hls/22/index.m3u8
-河北农民,http://123.183.77.108:808/hls/22/index.m3u8
-河北农民,http://123.183.77.137:808/hls/22/index.m3u8
-河北农民,http://123.183.77.199:808/hls/22/index.m3u8
 
 
-河北农民,http://123.183.76.34:808/hls/22/index.m3u8
-河北农民,http://123.183.76.35:808/hls/22/index.m3u8
-河北农民,http://123.183.76.46:808/hls/22/index.m3u8
-河北农民,http://123.183.76.57:808/hls/22/index.m3u8
-河北农民,http://123.183.76.211:808/hls/22/index.m3u8
+河北农民,http://123.183.78.5:808/hls/22/index.m3u8
+河北农民,http://123.183.78.54:808/hls/22/index.m3u8
+河北农民,http://123.183.78.66:808/hls/22/index.m3u8
+河北农民,http://123.183.78.130:808/hls/22/index.m3u8
+河北农民,http://123.183.78.112:808/hls/22/index.m3u8
+河北农民,http://123.183.78.158:808/hls/22/index.m3u8
+河北农民,http://123.183.78.153:808/hls/22/index.m3u8
+河北农民,http://123.183.78.207:808/hls/22/index.m3u8
+河北农民,http://123.183.78.160:808/hls/22/index.m3u8
+河北农民,http://123.183.78.198:808/hls/22/index.m3u8
+河北农民,http://123.183.78.221:808/hls/22/index.m3u8
+河北农民,http://123.183.78.243:808/hls/22/index.m3u8
 
 
 
@@ -137,29 +132,49 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 
-河北农民,http://106.115.24.28:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.24.120:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.24.195:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.24.232:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://123.183.77.123:808/hls/22/index.m3u8
+河北农民,http://123.183.77.119:808/hls/22/index.m3u8
+河北农民,http:/123.183.77.144:808/hls/22/index.m3u8
+河北农民,http://123.183.77.183:808/hls/22/index.m3u8
+河北农民,http://123.183.77.228:808/hls/22/index.m3u8
+河北农民,http://123.183.77.27:808/hls/22/index.m3u8
+
+
+河北农民,http://123.183.76.10:808/hls/22/index.m3u8
+河北农民,http://123.183.76.19:808/hls/22/index.m3u8
+河北农民,http://123.183.76.67:808/hls/22/index.m3u8
+河北农民,http://123.183.76.139:808/hls/22/index.m3u8
+河北农民,http://123.183.76.155:808/hls/22/index.m3u8
+河北农民,http://123.183.76.173:808/hls/22/index.m3u8
 
 
 
-河北农民,http://106.115.25.94:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.25.114:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-
-河北农民,http://106.115.26.23:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.26.137:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http:/106.115.26.162:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.26.166:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.26.187:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.26.246:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.26.249:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
 
 
-河北农民,http://106.115.27.21:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.27.35:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.27.31:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.27.87:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+
+
+河北农民,http://106.115.24.7:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.24.29:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.24.75:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.24.138:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.24.236:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+
+
+
+河北农民,http://106.115.25.83:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.25.175:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.25.223:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+
+
+河北农民,http://106.115.26.20:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.26.156:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http:/106.115.26.232:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+
+河北农民,http://106.115.27.76:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.27.136:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.27.114:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.27.141:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.27.212:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
 
 
 
@@ -171,6 +186,8 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 河北农民,http://111.225.113.100:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.113.200:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 河北农民,http://111.225.114.68:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 河北农民,http://111.225.114.48:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -241,7 +258,7 @@ NewTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/
 NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 
 
 
