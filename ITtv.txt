@@ -125,20 +125,11 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 河北农民,http://123.183.77.199:808/hls/22/index.m3u8
 
 
-河北农民,http://123.183.76.11:808/hls/22/index.m3u8
-河北农民,http://123.183.76.36:808/hls/22/index.m3u8
-河北农民,http://123.183.76.107:808/hls/22/index.m3u8
-河北农民,http://123.183.76.65:808/hls/22/index.m3u8
-河北农民,http://123.183.76.83:808/hls/22/index.m3u8
-河北农民,http://123.183.76.96:808/hls/22/index.m3u8
-河北农民,http://123.183.76.120:808/hls/22/index.m3u8
-河北农民,http://123.183.76.144:808/hls/22/index.m3u8
-河北农民,http://123.183.76.162:808/hls/22/index.m3u8
-河北农民,http://123.183.76.202:808/hls/22/index.m3u8
-河北农民,http://123.183.76.219:808/hls/22/index.m3u8
-河北农民,http://123.183.76.227:808/hls/22/index.m3u8
-河北农民,http://123.183.76.253:808/hls/22/index.m3u8
-
+河北农民,http://123.183.76.34:808/hls/22/index.m3u8
+河北农民,http://123.183.76.35:808/hls/22/index.m3u8
+河北农民,http://123.183.76.46:808/hls/22/index.m3u8
+河北农民,http://123.183.76.57:808/hls/22/index.m3u8
+河北农民,http://123.183.76.211:808/hls/22/index.m3u8
 
 
 
@@ -180,7 +171,6 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 河北农民,http://111.225.113.100:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-河北农民,http://111.225.113.200:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 
 河北农民,http://111.225.114.68:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 河北农民,http://111.225.114.48:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -201,9 +191,7 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 重温经典台,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv 
 重温经典台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls
-重温经典台,http://124.231.213.212:9999/tsfile/live/1111_1.m3u8$湖南娄底酒店
-重温经典台,http://124.231.215.237:9999/tsfile/live/1111_1.m3u8$湖南娄底酒店
-
+ 
 
 重温经典台,http://117.114.153.18:8180/TV00000000000000000007@HHZT?$京移5M576
 重温经典台,http://117.114.153.26:8180/TV00000000000000000007@HHZT?$京移5M576
