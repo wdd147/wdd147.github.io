@@ -75,76 +75,80 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 
-河北农民,http://144.7.38.33:808/hls/22/index.m3u8
-河北农民,http:/144.7.38.243:808/hls/22/index.m3u8
+河北农民,http://144.7.38.36:808/hls/22/index.m3u8
+河北农民,http:/144.7.38.73:808/hls/22/index.m3u8
 
 河北农民,http://111.61.208.131:9019/hls/23/index.m3u8
 
-河北农民,http://111.225.92.244:33333/hls/25/index.m3u8
+河北农民,http://111.225.92.52:33333/hls/25/index.m3u8
+河北农民,http://111.225.92.95:33333/hls/25/index.m3u8
+河北农民,http://111.225.92.237:33333/hls/25/index.m3u8
 
 
 
-河北农民,http://111.225.93.9:33333/hls/25/index.m3u8
-河北农民,http://111.225.93.88:33333/hls/25/index.m3u8
-河北农民,http://111.225.93.135:33333/hls/25/index.m3u8
+河北农民,http://111.225.93.107:33333/hls/25/index.m3u8
+河北农民,http://111.225.93.145:33333/hls/25/index.m3u8
+河北农民,http://111.225.93.122:33333/hls/25/index.m3u8
 
 
 
-河北农民,http://111.225.94.214:33333/hls/25/index.m3u8
-河北农民,http://111.225.94.217:33333/hls/25/index.m3u8
+河北农民,http://111.225.94.14:33333/hls/25/index.m3u8
+河北农民,http://111.225.94.110:33333/hls/25/index.m3u8
+河北农民,http://111.225.94.238:33333/hls/25/index.m3u8
 
 
-河北农民,http://111.225.95.68:33333/hls/25/index.m3u8
-河北农民,http://111.225.95.97:33333/hls/25/index.m3u8
-河北农民,http://111.225.95.104:33333/hls/25/index.m3u8
-河北农民,http://111.225.95.234:33333/hls/25/index.m3u8
-
-
+河北农民,http://111.225.95.49:33333/hls/25/index.m3u8
 
 
 
 
-河北农民,http://106.115.24.23:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.24.25:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.24.80:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.24.79:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
 
 
 
-河北农民,http://106.115.25.14:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.25.60:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.25.46:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.25.99:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.25.178:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
 
 
-河北农民,http://106.115.26.91:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.26.208:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.26.224:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+
+河北农民,http://106.115.24.31:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.24.78:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.24.100:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.24.183:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.24.239:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
 
 
-河北农民,http://106.115.27.15:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.27.79:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.27.143:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+
+河北农民,http://106.115.25.116:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.25.154:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.25.241:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+
+河北农民,http://106.115.26.1:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.26.39:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.26.125:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.26.132:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.26.154:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.26.189:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+
+
+河北农民,http://106.115.27.108:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.27.152:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
 
 
 河北农民,http://111.225.112.26:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-河北农民,http://111.225.112.106:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-河北农民,http://111.225.112.243:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 河北农民,http://111.225.113.19:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-河北农民,http://111.225.113.246:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.113.47:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.113.143:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-河北农民,http://1111.225.114.36:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-河北农民,http://111.225.114.24:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.114.20:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.114.44:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.114.83:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.114.74:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
+河北农民,http://111.225.115.51:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 河北农民,http://111.225.115.109:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-河北农民,http://111.225.115.111:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 河北农民,http://111.225.115.181:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-河北农民,http://111.225.115.200:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
@@ -158,8 +162,7 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 重温经典台, http://xyt.186738613.xyz/lngd.php?id=635&Cf.m3u8
 重温经典台,http://124.231.215.29:9999/tsfile/live/1111_1.m3u8?key=txiptv&playlive=1&authid=0$湖南娄底酒店
 
-重温经典台,http://117.114.153.18:8180/TV00000000000000000007@HHZT?$京移5M576
-重温经典台,http://117.114.153.26:8180/TV00000000000000000007@HHZT?$京移5M576
+
 重温经典台,http://117.114.153.28:8180/TV00000000000000000007@HHZT?$京移5M576
 
 
