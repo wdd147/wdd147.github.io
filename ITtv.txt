@@ -102,7 +102,7 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 河北农民,http://111.225.95.196:33333/hls/25/index.m3u8
 
 
-
+河北农民,http://222.223.84.139:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
@@ -160,7 +160,7 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 重温经典台,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv 
 重温经典台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls
 重温经典台, http://xyt.186738613.xyz/lngd.php?id=635&Cf.m3u8
-重温经典台,http://124.231.214.169:9999/tsfile/live/1111_1.m3u8?key=txiptv&playlive=1&authid=0$湖南娄底酒店
+重温经典台,http://124.231.214.89:9999/tsfile/live/1111_1.m3u8?key=txiptv&playlive=1&authid=0$湖南娄底酒店
 
 
 重温经典台,http://117.114.153.28:8180/TV00000000000000000007@HHZT?$京移5M576
