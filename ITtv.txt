@@ -81,13 +81,13 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1725629231&k=2685b81e22cdcfa641fffb1e6a74598a
-河北农民,http://144.7.38.72:808/hls/22/index.m3u8
-河北农民,http:/144.7.38.40:808/hls/22/index.m3u8
+河北农民,http://144.7.38.114:808/hls/22/index.m3u8
 河北农民,http:/144.7.38.201:808/hls/22/index.m3u8
+河北农民,http:/144.7.38.240:808/hls/22/index.m3u8
 
 河北农民,http://111.225.92.63:33333/hls/25/index.m3u8
-河北农民,http://111.225.92.128:33333/hls/25/index.m3u8
 河北农民,http://111.225.92.254:33333/hls/25/index.m3u8
+河北农民,http://111.225.92.128:33333/hls/25/index.m3u8
 
 
 
@@ -115,46 +115,45 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 
-河北农民,http://106.115.24.25:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.24.38:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.24.23:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.24.79:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.24.146:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.24.12:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.24.31:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.24.102:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.24.41:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.24.21:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.24.173:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
 
 
-河北农民,http://106.115.25.38:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.25.41:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.25.88:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.25.115:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.25.154:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.25.159:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.25.236:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
 
 
-河北农民,http://106.115.26.54:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.26.79:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.26.90:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.26.146:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.26.23:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.26.39:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.26.179:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.26.255:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
 
 
-河北农民,http://106.115.27.54:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.27.143:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.27.14:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.27.76:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.27.142:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+河北农民,http://106.115.27.168:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
 
 
-河北农民,http://111.225.112.204:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.112.36:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.112.141:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.112.166:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-河北农民,http://111.225.113.98:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-河北农民,http://111.225.113.179:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-河北农民,http://111.225.113.242:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.113.53:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-河北农民,http://111.225.114.235:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-河北农民,http://111.225.114.229:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.114.8:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.114.32:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.114.239:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-河北农民,http://111.225.115.39:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-河北农民,http://111.225.115.68:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-河北农民,http://111.225.115.190:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-河北农民,http://111.225.115.240:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.115.140:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://111.225.115.125:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
