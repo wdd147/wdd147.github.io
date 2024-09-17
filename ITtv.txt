@@ -79,7 +79,7 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 青县综合,http://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
 
 
-
+河北农民,http://192.168.0.104/河北省.php?id=nmpd
 河北农民,http://144.7.38.162:808/hls/22/index.m3u8
 
 
