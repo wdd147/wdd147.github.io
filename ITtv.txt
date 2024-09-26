@@ -1,5 +1,48 @@
 IPTV,#genre#
 
+CCTV1,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000021973/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000021973
+CCTV1,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000030810/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000030810
+CCTV1,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265001
+CCTV1,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000004000002226/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000002226
+CCTV1,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000018602/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
+CCTV2,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000012442/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000012442
+CCTV2,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265002
+CCTV2,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023315/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023315
+CCTV3,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000011218/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000011218
+CCTV3,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000020548/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000020548
+CCTV3,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265003
+CCTV3,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000013682/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000013682
+CCTV4,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000031664/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000031664
+CCTV4,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265004
+CCTV4,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031102/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031102
+CCTV7,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000017218/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000017218
+CCTV7,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265007/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265007
+CCTV7,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000024341/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000024341
+CCTV8,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265008/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265008
+CCTV8,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000004000008888/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000008888
+CCTV8,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000003736/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000003736
+CCTV8,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000031433/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000031433
+CCTV9,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000018384/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000018384
+CCTV9,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000014583/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000014583
+CCTV10,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000016738/index.m3u8?livemode=1&stbId=3&channel-id=bestzb&Contentid=5000000010000016738
+CCTV10,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265010/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265010
+CCTV10,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023734/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023734
+CCTV10,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000004000012827/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000012827
+CCTV11,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000019789/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000019789
+CCTV11,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000006000040011/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040011
+CCTV11,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265011/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265011
+CCTV12,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000001640/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000001640
+CCTV12,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000265012/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000265012
+CCTV12,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000032494/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000032494
+CCTV13,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000002000021303/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000021303
+CCTV13,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000005000001827/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000005000001827
+CCTV13,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031108/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031108
+CCTV14,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/8203666801302077036/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8203666801302077036
+CCTV17,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000005000056836/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000056836
+CCTV17,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000268004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000268004
+
+
+
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/1.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/1.m3u8
@@ -48,6 +91,35 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 
+CCTV-1,http://39.134.193.112:6610/030000001001/cctv-1/1.m3u8?channel-id=ystenlive&Contentid=cctv-1&livemode=1"
+CCTV-2,http://39.134.193.112:6610/030000001001/cctv-2/1.m3u8?channel-id=ystenlive&Contentid=cctv-2&livemode=1"
+CCTV-3,http://39.134.193.112:6610/030000001001/cctv-3/1.m3u8?channel-id=ystenlive&Contentid=cctv-3&livemode=1"
+CCTV-4,http://39.134.193.112:6610/030000001001/cctv-4/1.m3u8?channel-id=ystenlive&Contentid=cctv-4&livemode=1"
+CCTV-7,http://39.134.193.112:6610/030000001001/cctv-7/1.m3u8?channel-id=ystenlive&Contentid=cctv-7&livemode=1"
+CCTV-8,http://39.134.193.112:6610/030000001001/cctv-8/1.m3u8?channel-id=ystenlive&Contentid=cctv-8&livemode=1"	
+CCTV-9,http://39.134.193.112:6610/030000001001/cctv-news/1.m3u8?channel-id=ystenlive&Contentid=cctv-news&livemode=1"
+CCTV-10,http://39.134.193.112:6610/030000001001/cctv-10/1.m3u8?channel-id=ystenlive&Contentid=cctv-10&livemode=1"
+CCTV-11,http://39.134.193.112:6610/030000001001/cctv-11/1.m3u8?channel-id=ystenlive&Contentid=cctv-11&livemode=1"
+CCTV-12,http://39.134.193.112:6610/030000001001/cctv-12/1.m3u8?channel-id=ystenlive&Contentid=cctv-12&livemode=1"
+CCTV-13,http://39.134.193.112:6610/030000001001/cctv-13/1.m3u8?channel-id=ystenlive&Contentid=cctv-13&livemode=1"
+CCTV-14,http://39.134.193.112:6610/030000001001/cctv-14/1.m3u8?channel-id=ystenlive&Contentid=cctv-14&livemode=1"
+CCTV-17,http://39.134.193.112:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?channel-id=ystenlive&Contentid=HD-4000k-1080P-cctv17&livemode=1"
+
+CCTV-1,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-1/1.m3u8?channel-id=ystenlive&Contentid=cctv-1&livemode=1"
+CCTV-2,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-2/1.m3u8?channel-id=ystenlive&Contentid=cctv-2&livemode=1"
+CCTV-3,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-3/1.m3u8?channel-id=ystenlive&Contentid=cctv-3&livemode=1"
+CCTV-4,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-4/1.m3u8?channel-id=ystenlive&Contentid=cctv-4&livemode=1"
+CCTV-7,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-7/1.m3u8?channel-id=ystenlive&Contentid=cctv-7&livemode=1"
+CCTV-8,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-8/1.m3u8?channel-id=ystenlive&Contentid=cctv-8&livemode=1"	
+CCTV-9,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-news/1.m3u8?channel-id=ystenlive&Contentid=cctv-news&livemode=1"
+CCTV-10,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-10/1.m3u8?channel-id=ystenlive&Contentid=cctv-10&livemode=1"
+CCTV-11,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-11/1.m3u8?channel-id=ystenlive&Contentid=cctv-11&livemode=1"
+CCTV-12,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-12/1.m3u8?channel-id=ystenlive&Contentid=cctv-12&livemode=1"
+CCTV-13,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-13/1.m3u8?channel-id=ystenlive&Contentid=cctv-13&livemode=1"
+CCTV-14,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-14/1.m3u8?channel-id=ystenlive&Contentid=cctv-14&livemode=1"
+CCTV-17,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-cctv17/1.m3u8?channel-id=ystenlive&Contentid=HD-4000k-1080P-cctv17&livemode=1"
+
+
 
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
@@ -81,70 +153,6 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1963555153&k=322fe32502d1e3695b0bdef5e698635e
 河北农民,http://192.168.0.104/河北省.php?id=nmpd
 
-河北农民,http://144.7.38.162:808/hls/22/index.m3u8
-
-
-河北农民,http://111.225.92.106:33333/hls/25/index.m3u8
-河北农民,http://111.225.92.146:33333/hls/25/index.m3u8
-
-
-
-
-河北农民,http://111.225.93.108:33333/hls/25/index.m3u8
-河北农民,http://111.225.93.152:33333/hls/25/index.m3u8
-河北农民,http://111.225.93.188:33333/hls/25/index.m3u8
-
-
-
-河北农民,http://111.225.94.81:33333/hls/25/index.m3u8
-河北农民,http://111.225.94.74:33333/hls/25/index.m3u8
-河北农民,http://111.225.94.195:33333/hls/25/index.m3u8
-
-
-
-
-
-河北农民,http://106.115.24.41:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.24.9:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.24.192:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.24.97:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.24.99:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.24.194:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-
-
-河北农民,http://106.115.25.23:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.25.75:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.25.171:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.25.246:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-
-
-河北农民,http://106.115.26.5:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.26.35:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.26.143:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-
-
-河北农民,http://106.115.27.96:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.27.74:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.27.142:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-河北农民,http://106.115.27.235:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
-
-
-河北农民,http://111.225.112.36:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-河北农民,http://111.225.112.166:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-河北农民,http://111.225.113.53:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-河北农民,http://111.225.114.32:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-河北农民,http://111.225.114.8:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-河北农民,http://111.225.114.239:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-河北农民,http://111.225.115.125:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-河北农民,http://111.225.115.140:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
 
 
 
@@ -152,12 +160,12 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 
 
 重温经典台,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv 
-重温经典台,http://live.dxms.top:80/dwy/cwjd.php
+重温经典台,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
 
 重温经典台,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls
 重温经典台,http://124.231.215.108:9999/tsfile/live/1111_1.m3u8?key=txiptv&playlive=1&authid=0$湖南娄底酒店
 
-
+重温经典台,http://live.dxms.top:80/dwy/cwjd.php
 重温经典台,http://117.114.153.28:8182/TV00000000000000000007@HHZT?$京移5M576
 
 
@@ -303,10 +311,6 @@ NewTV农业致富,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 
 
 
-河北农民http://123.183.79.7:808/hls/22/index.m3u8
-河北农民http://123.183.78.2:808/hls/22/index.m3u8
-河北农民http://123.183.77.25:808/hls/22/index.m3u8
-河北农民http://123.183.76.10:808/hls/22/index.m3u8
 
 
 
